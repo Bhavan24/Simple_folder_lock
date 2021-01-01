@@ -1,0 +1,10 @@
+C:\Users\bhavan\source\repos\Simple Folder Lock\bin\Debug\Simple Folder Lock.exe.config
+C:\Users\bhavan\source\repos\Simple Folder Lock\bin\Debug\Simple Folder Lock.exe
+C:\Users\bhavan\source\repos\Simple Folder Lock\bin\Debug\Simple Folder Lock.pdb
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple Folder Lock.csprojAssemblyReference.cache
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple_Folder_Lock.Form1.resources
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple_Folder_Lock.Properties.Resources.resources
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple Folder Lock.csproj.GenerateResource.cache
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple Folder Lock.csproj.CoreCompileInputs.cache
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple Folder Lock.exe
+C:\Users\bhavan\source\repos\Simple Folder Lock\obj\Debug\Simple Folder Lock.pdb
